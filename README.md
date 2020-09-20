@@ -1,7 +1,7 @@
 # PracticeTestsSelenium
 Selenium Cucumber Training project test questions
 
-Coaches, please see below notes for your reference while reviewing my project\
+Coaches, please see below notes for your reference while reviewing my project:
 
 Referenced libraries are as below:
 selenium-server-standalone-3.12.0.jar
